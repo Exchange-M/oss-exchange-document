@@ -32,11 +32,11 @@ coin 서버: express.js
 
 * 전체 시스템 구성
 
-![system_architecture](https://github.com/Exchange-M/oss-exchange-document/resource/system_architecture.png)
+![system_architecture](https://raw.githubusercontent.com/Exchange-M/oss-exchange-document/master/resource/system_architecture.png)
 
 * 매칭 시스템 구성
 
-![match_architecture](https://github.com/Exchange-M/oss-exchange-document/resource/match_architecture.png)
+![match_architecture](https://github.com/Exchange-M/oss-exchange-document/blob/master/resource/match_architecture.png?raw=true)
 
 
 
